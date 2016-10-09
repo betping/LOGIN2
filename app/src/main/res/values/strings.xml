@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LOG IN</string>
+    <string name="log">Login</string>
+    <string name="enter">Enter your email</string>
+    <string name="enter2">Enter your number</string>
+
+</resources>
